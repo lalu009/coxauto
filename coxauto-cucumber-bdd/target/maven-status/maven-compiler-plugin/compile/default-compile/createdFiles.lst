@@ -1,0 +1,7 @@
+uk\co\coxauto\pages\GetInTouchPage.class
+uk\co\coxauto\utility\Util.class
+uk\co\coxauto\loadProperty\LoadProperty.class
+uk\co\coxauto\basePage\BasePage.class
+uk\co\coxauto\pages\ContactMovex.class
+uk\co\coxauto\browserSelector\BrowserSelector.class
+uk\co\coxauto\pages\HomePage.class
